@@ -236,11 +236,11 @@ payment-tracker/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 About me
 
-**Keerthan** - *Full Stack Developer*
-- GitHub: [@Keerthan200408](https://github.com/Keerthan200408)
-- Project Link: [Payment Tracker](https://github.com/Keerthan200408/payment-tracker)
+**Sathwik** - *Full Stack Developer*
+- GitHub: [@sathwik1802](https://github.com/sathwik1802)
+- Project Link: [Payment Tracker](https://github.com/sathwik1802/payment_tracker)
 
 ## 🙏 Acknowledgments
 
