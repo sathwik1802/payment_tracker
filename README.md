@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 About me
 
-**Sathwik** - *Full Stack Developer*
+**Sathwik** - *Full Stack Web Developer*
 - GitHub: [@sathwik1802](https://github.com/sathwik1802)
 - Project Link: [Payment Tracker](https://github.com/sathwik1802/payment_tracker)
 
